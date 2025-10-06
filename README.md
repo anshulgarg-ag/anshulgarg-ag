@@ -17,16 +17,17 @@
 <p align="left">
 <!-- Portfolio -->
   <a href="https://anshul-garg.com" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/domain.png" alt="anshul-garg.com" height="30" /></a>
-
-  <!-- LinkedIn -->
+<!-- LinkedIn -->
   <a href="https://linkedin.com/in/-anshul-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anshul-garg" height="30" /></a>
-
 <!-- GitHub -->
   <a href="https://github.com/anshulgarg-ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshulgarg-ag" height="30" /></a>
-
 <!-- Email -->
   <a href="mailto:technology.anshul@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="technology.anshul@gmail.com" height="30" /></a>
 </p>
+
+## 📜 ℝ𝕖𝕤𝕖𝕒𝕣𝕔𝕙 & ℙ𝕦𝕓𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤
+
+- [Enhancing LSTM-based Piano Music Generation with Self-Attention on the Lakh MIDI Dataset](https://ncvpripg25.github.io/ncvpripg25/ap.html)
 
 ## ⚙️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:
 
