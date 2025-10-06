@@ -4,7 +4,7 @@
 
 ### ɪ'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ
 
-- 🎓 Computer Science Engineering student at [SRM University Sonepat, Haryana](https://srmuniversity.ac.in/).
+- 🎓 Computer Science Engineering student at <a href="https://srmuniversity.ac.in/" target="_blank">SRM University Sonepat, Haryana</a>.
 
 - 🔭 I’m currently working on enhancing my skills in Cyber Security and DevOps.
 
@@ -16,18 +16,18 @@
 
 <p align="left">
 <!-- Portfolio -->
-  <a href="https://anshul-garg.com" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/domain.png" alt="anshul-garg.com" height="30" /></a>
+  <a href="https://anshul-garg.com" target="_blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/domain.png" alt="anshul-garg.com" height="30" /></a>
 <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/-anshul-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anshul-garg" height="30" /></a>
+  <a href="https://linkedin.com/in/-anshul-garg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-anshul-garg" height="30" /></a>
 <!-- GitHub -->
-  <a href="https://github.com/anshulgarg-ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshulgarg-ag" height="30" /></a>
+  <a href="https://github.com/anshulgarg-ag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshulgarg-ag" height="30" /></a>
 <!-- Email -->
-  <a href="mailto:technology.anshul@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="technology.anshul@gmail.com" height="30" /></a>
+  <a href="mailto:technology.anshul@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="technology.anshul@gmail.com" height="30" /></a>
 </p>
 
 ## 📜 ℝ𝕖𝕤𝕖𝕒𝕣𝕔𝕙 & ℙ𝕦𝕓𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤
 
-- [Enhancing LSTM-based Piano Music Generation with Self-Attention on the Lakh MIDI Dataset](https://ncvpripg25.github.io/ncvpripg25/ap.html)
+- <a href="https://ncvpripg25.github.io/ncvpripg25/ap.html" target="_blank">Enhancing LSTM-based Piano Music Generation with Self-Attention on the Lakh MIDI Dataset</a>
 
 ## ⚙️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:
 
